@@ -1,5 +1,8 @@
 # Bike Sales Analysis
 
+### Table of contents
+- [Project Overview](#project-Overview)
+
 ### project Overview
 
 ### Data Sources
@@ -26,5 +29,26 @@ in the initial data preparation phase, i performed the following tasks:
  include some interesing code/ features worked with
  ---excel
  formulas
+ 
+ ### Results/Findings
+
+the analysis results summarized as follows:
+1.
+2
+### Recommondations :
+1.ffff
+
+### Limitations:
+
+
+### References
+ 1.ff
+ 2.
+
+ ![Capture](https://github.com/Ratnasrig/Folio-projects/assets/173731797/2c1efa21-547e-4ee6-a3ce-edc895002336)
+
+
+
+
 
 
