@@ -41,8 +41,9 @@ in the initial data preparation phase, i performed the following tasks:
  ### Data Analysis
  include some interesing code/ features worked with
  ---excel
+ 
   1.If Function.
-  2. Find and Replace
+  2.Find and Replace
   3.Pivot Tables.
   4.Charts.
   5.Formate Numbers.
