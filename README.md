@@ -19,16 +19,23 @@ Microsoft Excel : Data cleaning, pivot tables, creating dashboards.
 in the initial data preparation phase, i performed the following tasks:
 
 1.Data loadig and inspection.
+
 2.Clearing Duplicate Values.
+
 3.Handling missing values.
+
 4.Remove Jorgans.
+
 5.Validating Data.
+
 6.Formate The numbers.
 
 ### Exploratory Data Analysis
 
  --what is the Number of Bikes Sold ?
+ 
  ---what is Top Buyers ?
+ 
  ----Sales Commute ?
 
  ### Data Analysis
