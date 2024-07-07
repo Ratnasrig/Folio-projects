@@ -43,11 +43,17 @@ in the initial data preparation phase, i performed the following tasks:
  ---excel
  
   1.If Function.
+  
   2.Find and Replace
+  
   3.Pivot Tables.
+  
   4.Charts.
+  
   5.Formate Numbers.
+  
   6.Pivot Slicer.
+  
   7.Dahboard Creation.
  
  ### Results/Findings
