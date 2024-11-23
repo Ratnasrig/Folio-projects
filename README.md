@@ -1,4 +1,4 @@
-# Bike Purchase Analysis
+# Bike Sales Analysis
 
 ### Table of contents
 - [Project Overview](#project-Overview)
