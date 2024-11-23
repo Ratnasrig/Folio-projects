@@ -70,6 +70,7 @@ in the initial data preparation phase, i performed the following tasks:
  ### Results/Findings
 
 the analysis results summarized as follows:
+
 1.Female Purchasing Power: In Europe, females have made more purchases compared to their male counterparts. This indicates a strong female consumer base.
 
 2.Demographic Gap: Most middle-aged males in North America have not made purchases, indicating a significant gap in engagement with this demographic.
